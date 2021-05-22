@@ -1,0 +1,6 @@
+{
+  "name": "GlobalCart", 
+  "description": "Chrome extension that allows for items from multiple sites across the web to be stored in one cart", 
+  "version:": "1.0", 
+  "manifest_version": 3
+}
